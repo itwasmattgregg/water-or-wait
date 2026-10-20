@@ -1,0 +1,17 @@
+{
+  "name": "Water or Wait",
+  "short_name": "WaterOrWait",
+  "description": "ZIP-based lawn and garden watering advice from recent rain and evapotranspiration.",
+  "theme_color": "#163528",
+  "background_color": "#e7efe3",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
